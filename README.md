@@ -44,7 +44,7 @@ Mais embaixo podemos ver parte de "cursos intensivos" e "idiomas" onde eu utiliz
 Também coloquei a parte de tecnologias usadas. no caso eu coloquei vários svg de cores diferentes para indicar as tecnologias que eu estou estudando. 
 acredito que foi um ótimo complemento deixar o nome "tecnologias que eu uso" meio apagada para o cliente focar mais nas linguagens mesmo!
 
-#DESKTOP - FOOTER 
+# DESKTOP - FOOTER 
 ![3](https://user-images.githubusercontent.com/91097573/181829278-05486355-83b0-4d9d-b962-ea3af2e221ba.png)
 
 E por ultimo o footer, nele foi o mais simples, apenas coloquei minhas informações de contato e coloquei um background mais escuro, também coloquei alguns 
@@ -56,7 +56,7 @@ direitos reservados, pois eu tinha pego os icons e imagem do google
 ![MOBILE](https://user-images.githubusercontent.com/91097573/181829513-40af8da6-8d9a-4e3d-bf62-b93f9e0af033.png)
 
 Na parte de mobile foi a que mais aprendi, nesse caso eu aprendi a utilizar as linguagens semantica e responsiva, esse site está adaptada para diferentes tamanho de tela
-principalmente para mobile, com diferentes design e diferentes posições 
+principalmente para mobile, com diferentes design e diferentes posições.
 
 
 
